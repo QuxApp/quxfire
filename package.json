@@ -1,0 +1,21 @@
+{
+  "name": "quxfire",
+  "version": "1.0.0",
+  "description": "Quick firebase authentication and database functions!",
+  "main": "quxfire.js",
+  "scripts": {
+    "js": "node ."
+  },
+  "keywords": [
+    "firebase",
+    "qux",
+    "database",
+    "replit"
+  ],
+  "author": "quxapp",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "fs-extra": "^10.0.1"
+  }
+}

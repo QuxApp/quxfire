@@ -1,0 +1,1 @@
+const qf = require('./quxfire')
